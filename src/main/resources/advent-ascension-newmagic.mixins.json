@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "advent-ascension-newmagic.refmap.json",
+    "package": "rmc.mixins.advent_ascension_newmagic.inject",
+    "mixins": [
+        "PortalBlockMixin"
+    ]
+}
