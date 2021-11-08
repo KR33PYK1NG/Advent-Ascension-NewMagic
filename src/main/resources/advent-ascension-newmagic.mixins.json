@@ -3,6 +3,7 @@
     "refmap": "advent-ascension-newmagic.refmap.json",
     "package": "rmc.mixins.advent_ascension_newmagic.inject",
     "mixins": [
+        "AoATeleporterMixin",
         "PortalBlockMixin"
     ]
 }
